@@ -1,0 +1,7 @@
+Each cleared box yields a score-unit (in Score Rush) or a time-unit (in Extend Time). 
+Obtained time-units are added to the battery time.
+Use streaks to multiply recently obtained score/time-units by the streak number.
+
+"In Score Rush Mode, each cleared box yields points.
+In Extend Time, each cleared box yields additional battery charge.
+Use streaks to multiply obtained score/charge by the streak number."
